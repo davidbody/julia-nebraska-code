@@ -1,5 +1,7 @@
 # Getting Started with Julia
 
+![Julia logo](images/julia-logo.png)
+
 ## Nebraska.Code()
 
 ### July 14, 20201
